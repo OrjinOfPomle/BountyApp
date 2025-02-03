@@ -1,0 +1,6 @@
+framework module Pods_Bounty_BountyUITests {
+  umbrella header "Pods-Bounty-BountyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

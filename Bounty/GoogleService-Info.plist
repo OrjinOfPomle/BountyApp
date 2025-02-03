@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323400550867-indug8uim9d9roq2g0k3ftf0fq3jokc5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323400550867-indug8uim9d9roq2g0k3ftf0fq3jokc5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUi-dFd-GsTDyomm48GvSmewI-A0V7j6E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323400550867</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FireflyGlobe.Bounty</string>
+	<key>PROJECT_ID</key>
+	<string>bountydb-cae65</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bountydb-cae65.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323400550867:ios:7a9c5b7901e05cf9d94726</string>
+	<key>DATABASE_URL</key>
+	<string>https://bountydb-cae65.firebaseio.com</string>
+</dict>
+</plist>
